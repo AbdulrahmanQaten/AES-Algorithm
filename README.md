@@ -4,6 +4,8 @@
 A GUI application for encrypting and decrypting text using AES-256-CBC algorithm with multi-language support and theme switching.
 
 أداة رسومية لتشفير وفك تشفير النصوص باستخدام خوارزمية AES-256-CBC مع دعم متعدد اللغات وتبديل السمات.
+![Uploading Annotation 2025-05-07 005318.png…]()
+
 
 ## Features المميزات
 - 🔐 AES-256-CBC encryption/تشفير AES-256-CBC
